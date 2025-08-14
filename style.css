@@ -1,0 +1,69 @@
+.container{
+    margin: 40px;
+}
+
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#file-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid skyblue;
+    background-color: #EBE5FA;
+    
+}
+#createanaccount{
+    background-color: blueviolet;
+    font-style: italic;
+}
+#Getstarted{
+    background-color: blueviolet;
+    font-style: oblique;
+}
+.block{
+    display: block;
+}
+.box{
+    color: blueviolet;
+    }
+
+#file-wrapper h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+#file-wrapper p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section2-wrapper img{
+    width: 100%;
+
+}
+#file-wrapper div{
+    margin: 20px 0px;
+}
+.section2-wrapper div{
+    font-style: bold;
+}
+.idiv-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    border: 2px solid skyblue;
+    background-color: #651FFF;
+    border-radius: 20px;
+    padding: 40px;
+
+}
+
+.light-wrapper{
+    display: flex;
+    gap: 10px;
+}
+.
