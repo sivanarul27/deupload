@@ -66,4 +66,45 @@
     display: flex;
     gap: 10px;
 }
-.
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    color: blueviolet;
+}
+.just-wrapper{
+        display: flex;
+        gap: 10px;
+}
+.just-wrapper > div:nth-child(1){
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    border: 2px solid skyblue;
+    background-color: #FFF7ED;
+
+
+    border-radius: 20px;
+    padding: 40px;
+}
+.just-wrapper > div:nth-child(2){
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    border: 2px solid skyblue;
+    background-color: #E0F7FA;
+
+
+
+    border-radius: 20px;
+    padding: 40px;
+}
+.container {
+    height: 200px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    border: 2px solid black;
+}
